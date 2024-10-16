@@ -1,2 +1,2 @@
-# Web-Menu
- A simple fullstack web menu project
+# Web-Menu API
+API for a web menu project
